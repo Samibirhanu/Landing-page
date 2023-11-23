@@ -100,7 +100,24 @@ button.first-button{
 /* section three style */
 .section-three{
     background-color: #E5E7EB;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    display: flex;
+    flex-direction: column;
 }
 .section-three p{
     margin: 0;
+    text-align: center;
+    padding-left: 140px;
+    padding-right: 140px;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style:  italic;
+    color: #3c4858;
+    
+
+}
+.section-three h5{
+    margin-left: auto ;
+    padding-right: 150px;
 }
