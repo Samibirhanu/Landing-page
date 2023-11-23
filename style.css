@@ -47,4 +47,9 @@ a{
     padding-right: 140px;
     color: white;
 }
+.content h1{
+    margin: 0;
+    padding: 0;
+}
+
 
