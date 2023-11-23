@@ -14,6 +14,7 @@ ul{
     gap: 40px;
     padding-left: 90px;
     padding-right: 140px;
+    align-items: center;
 }
 .left{
     margin-left: auto;
@@ -21,4 +22,10 @@ ul{
 a{
     text-decoration: none;
     color: white;
+}
+
+/* logo styel*/
+.logo{
+    font-weight: bold;
+    font-size: 48px;
 }
