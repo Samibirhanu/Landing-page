@@ -11,9 +11,11 @@ body {
     width: 450px;
     border-radius: 10px;
 }
-img{
+.image-text img{
     height: 200px;
     width: 175px;
+    border: 2px solid #3882F6;
+    border-radius: 8px;
 }
 /* navigation style */
 ul{
@@ -82,7 +84,7 @@ button.first-button{
 .container{
     display: flex;
     justify-content: center;
-    gap: 5px;
+    gap: 25px;
 }
 .image-text{
     display: flex;
