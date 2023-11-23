@@ -74,9 +74,11 @@ button.first-button{
 /* second section style */
 .big-container{
     background-color: white;
+    padding-bottom: 70px;
 }
 .big-container h2{
-    padding: 30px;
+    padding: 25px;
+    margin: 0;
     text-align:center ;
     font-size: 36px;
     color: #1F2937;
@@ -90,4 +92,7 @@ button.first-button{
     display: flex;
     flex-direction: column;
     text-align: center;
+}
+.image-text span{
+    color: #57585a;
 }
