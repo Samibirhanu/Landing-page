@@ -35,6 +35,7 @@ a{
 /* logo styel*/
 .logo{
     font-weight: bold;
+    color: #F9FAF8;
     font-size: 24px;
 }
 
@@ -53,5 +54,8 @@ a{
     font-size: 48px;
     font-weight: bolder;
 }
-
+.content p{
+    font-size: 18px;
+    color: #F9FAF8;
+}
 
