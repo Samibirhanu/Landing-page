@@ -36,3 +36,9 @@ a{
     font-weight: bold;
     font-size: 48px;
 }
+
+/* first section style */
+.container-flex-1{
+    display: flex;
+    
+}
