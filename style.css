@@ -40,5 +40,7 @@ a{
 /* first section style */
 .container-flex-1{
     display: flex;
-    
+    margin-top: 80px;
+    padding-left: 110px;
+    padding-right: 140px;
 }
