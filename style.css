@@ -59,5 +59,13 @@ a{
     font-size: 18px;
     color: #E5E7EB;
 }
+button.first-button{
+    padding: 5px 25px 5px 25px;
+    background-color:#3882F6 ;
+    color: white;
+    border-radius: 3px;
+    border: none;
+    
 
+}
 
