@@ -96,3 +96,11 @@ button.first-button{
 .image-text span{
     color: #57585a;
 }
+
+/* section three style */
+.section-three{
+    background-color: #E5E7EB;
+}
+.section-three p{
+    margin: 0;
+}
