@@ -6,7 +6,14 @@ body {
     margin: 0;
     background-color: #1f2937;
 }
-
+.front-img{
+    height: 250px;
+    width: 450px;
+}
+img{
+    height: 200px;
+    width: 175px;
+}
 /* navigation style */
 ul{
     list-style: none;
