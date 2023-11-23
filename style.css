@@ -69,3 +69,7 @@ button.first-button{
     cursor: pointer;
 }
 
+/* second section style */
+.big-container{
+    background-color: white;
+}
